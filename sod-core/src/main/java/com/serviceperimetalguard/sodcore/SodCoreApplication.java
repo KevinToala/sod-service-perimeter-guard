@@ -1,0 +1,12 @@
+package com.serviceperimetalguard.sodcore;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SodCoreApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SodCoreApplication.class, args);
+	}
+}
